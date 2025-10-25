@@ -20,7 +20,6 @@ Press enter or click to view image in full size
 
 Formula:
 
-
 Where:
 
 Ia,Id,Is → ambient, diffuse, and specular light intensities
